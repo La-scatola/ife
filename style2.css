@@ -1,0 +1,40 @@
+body {
+	width: 80%;
+	max-width: 800px;
+	margin: 100px auto;
+	font-family:"微软雅黑";
+	padding:1%;
+}
+h1{
+	float:left;
+	width:24%;
+	color:#fff;
+	text-align:center;
+	height:700px;
+	background-color:highlight;
+	line-height:180px;
+}
+#main{
+	float:right;
+	margin:30px;
+}
+.ul1,ul,li{padding:0;margin:0;}
+li{
+	list-style:none;
+	margin-right:50px;
+	margin-bottom:10px;
+	font-weight:bold;
+}
+.ul1 li{
+	float:left;
+}
+span{
+	font-weight:500;
+}
+h2{
+	display:block;
+	clear:both;
+}
+.br{
+	display:block;
+}
